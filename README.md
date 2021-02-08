@@ -7,4 +7,5 @@ It contains various hackerrank assignments conducted under "30 Days of Code" pro
 Concepts of "30 Days of Code" Series
 1. Basic Hello World Program using "getline()"
 2. Data Types using "getline()" with system generated input.
+3. Operator concept code.
    Coming soon.....
