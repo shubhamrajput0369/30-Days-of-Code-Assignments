@@ -9,5 +9,6 @@ Concepts of "30 Days of Code" Series
 2. Data Types using "getline()" with system generated input
 3. Operator concept code
 4. Conditional statement concept code
+5. Class vs Instance concept code
 
    Coming soon.....
