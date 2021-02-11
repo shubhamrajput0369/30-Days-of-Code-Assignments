@@ -10,5 +10,6 @@ Concepts of "30 Days of Code" Series
 3. Operator concept code
 4. Conditional statement concept code
 5. Class vs Instance concept code
+6. Loop logic code
 
    Coming soon.....
