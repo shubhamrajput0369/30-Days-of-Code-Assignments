@@ -11,5 +11,6 @@ Concepts of "30 Days of Code" Series
 4. Conditional statement concept code
 5. Class vs Instance concept code
 6. Loop logic code
+7. Revision on strings and loops (Let's review)
 
    Coming soon.....
