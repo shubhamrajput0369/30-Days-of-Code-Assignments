@@ -6,16 +6,28 @@ It contains various hackerrank assignments conducted under "30 Days of Code" pro
 
 Concepts of "30 Days of Code" Series
 1.0 Basic Hello World Program using "getline()"
+
 1.1 Data Types using "getline()" with system generated input
+
 1.2 Operator concept code
+
 1.3 Conditional statement concept code
+
 1.4 Class vs Instance concept code
+
 1.5 Loop logic code
+
 1.6 Revision on strings and loops (Let's review)
+
 1.7 Arrays concepts
+
 1.8 Dictionaries and Maps concepts
+
 1.9 Recursion concept logic
+
 2.0 Binary Numbers logic
+
 2.1 2D Arrays concept
+
 
    Coming soon.....
