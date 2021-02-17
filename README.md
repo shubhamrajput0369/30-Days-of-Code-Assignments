@@ -5,6 +5,7 @@ It contains various hackerrank assignments conducted under "30 Days of Code" pro
 ![GitHub Logo](https://github.com/shubhamrajput0369/30-Days-of-Code-Assignments/blob/main/Image%202.jpg)
 
 Concepts of "30 Days of Code" Series
+
 1.0 Basic Hello World Program using "getline()"
 
 1.1 Data Types using "getline()" with system generated input
