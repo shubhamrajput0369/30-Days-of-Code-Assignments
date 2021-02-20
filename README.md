@@ -36,4 +36,6 @@ Concepts of "30 Days of Code" Series
 
 2.4 Scope (Optimized Solution - Without using abs() ).cpp
 
+2.4 Scope.cpp
+
    Coming soon.....
