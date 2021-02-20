@@ -30,5 +30,7 @@ Concepts of "30 Days of Code" Series
 
 2.1 2D Arrays concept
 
+2.2 Inheritance.cpp
+
 
    Coming soon.....
