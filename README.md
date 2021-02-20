@@ -34,4 +34,6 @@ Concepts of "30 Days of Code" Series
 
 2.3 Abstract_Classes.cpp
 
+2.4 Scope (Optimized Solution - Without using abs() ).cpp
+
    Coming soon.....
