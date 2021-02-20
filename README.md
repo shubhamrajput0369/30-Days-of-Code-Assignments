@@ -32,5 +32,6 @@ Concepts of "30 Days of Code" Series
 
 2.2 Inheritance.cpp
 
+2.3 Abstract_Classes.cpp
 
    Coming soon.....
