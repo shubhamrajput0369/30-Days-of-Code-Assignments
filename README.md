@@ -30,12 +30,13 @@ Concepts of "30 Days of Code" Series
 
 2.1 2D Arrays concept
 
-2.2 Inheritance.cpp
+2.2 Inheritance concept
 
-2.3 Abstract_Classes.cpp
+2.3 Abstract Classes concept
 
-2.4 Scope (Optimized Solution - Without using abs() ).cpp
+2.4 Scope (Optimized Solution - Without using abs() concept)
 
-2.4 Scope.cpp
+2.4 Scope using abs() concept
 
+2.5 Linked List concept
    Coming soon.....
