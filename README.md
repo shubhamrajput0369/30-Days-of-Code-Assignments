@@ -40,4 +40,6 @@ Concepts of "30 Days of Code" Series
 
 2.5 Linked List concept
 
+2.6 Exception concept - stoi()
+
    Coming soon.....
