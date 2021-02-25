@@ -42,4 +42,6 @@ Concepts of "30 Days of Code" Series
 
 2.6 Exception concept - stoi()
 
+2.7 More Exceptions (Runtime Exception) concept 
+
    Coming soon.....
