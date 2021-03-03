@@ -44,10 +44,12 @@ Concepts of "30 Days of Code" Series
 
 2.7 More Exceptions (Runtime Exception) concept 
 
-2.8 Interfaces.cpp
+2.8 Interfaces concept
 
-2.9 Queues_Stacks.cpp
+2.9 Queues & Stacks concepts
 
-3.0 Sorting.cpp
+3.0 Sorting concept
+
+3.1 Generics concept
 
     Coming soon.....
