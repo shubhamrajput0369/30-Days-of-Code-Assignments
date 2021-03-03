@@ -1,3 +1,6 @@
+//Author: Shubham Bhagwansing Rajput
+//C++
+
 #include <iostream>
 
 using namespace std;
