@@ -52,6 +52,6 @@ Concepts of "30 Days of Code" Series
 
 3.1 Generics concept
 
-3.2 Binary Searc
+3.2 Binary Search
 
     Coming soon.....
