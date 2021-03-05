@@ -38,21 +38,22 @@ class Solution{
         }
 
 	void levelOrder(Node * root){
-      
-      if(root==NULL) return;
-      Node* current=root;
-      queue <Node*> Q;
-      Q.push(root);
+
+	      if(root==NULL) return;
+	      Node* current=root;
+	      queue <Node*> Q;
+	      Q.push(root);
       
       while(!Q.empty()){
       Node* current = Q.front();
       cout<<current->data<<" ";
       if(current->left!=NULL)  Q.push(current->left);
-      if(current->right!=NULL)  Q.push(current->right);                                        Q.pop();    
+      if(current->right!=NULL)  Q.push(current->right);
+	Q.pop();    
       }                              
 	}
 
-};//End of Solution
+};
 int main(){
     Solution myTree;
     Node* root=NULL;
