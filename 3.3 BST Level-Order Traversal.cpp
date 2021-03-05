@@ -44,12 +44,12 @@ class Solution{
 	      queue <Node*> Q;
 	      Q.push(root);
       
-      while(!Q.empty()){
-      Node* current = Q.front();
-      cout<<current->data<<" ";
-      if(current->left!=NULL)  Q.push(current->left);
-      if(current->right!=NULL)  Q.push(current->right);
-	Q.pop();    
+	      while(!Q.empty()){
+	      Node* current = Q.front();
+	      cout<<current->data<<" ";
+	      if(current->left!=NULL)  Q.push(current->left);
+	      if(current->right!=NULL)  Q.push(current->right);
+		Q.pop();    
       }                              
 	}
 
