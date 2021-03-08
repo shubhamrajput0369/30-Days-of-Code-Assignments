@@ -1,4 +1,7 @@
-Author: Shubham bhgwansing Rajput#include <cstddef>
+//Author: Shubham bhagwansing Rajput
+//C++
+
+#include <cstddef>
 #include <cmath>
 #include <cstdio>
 #include <vector>
