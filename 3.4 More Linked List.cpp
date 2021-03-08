@@ -8,6 +8,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
+
 class Node
 {
     public:
@@ -18,7 +19,6 @@ class Node
             next=NULL;
         }
 };
-
 class Solution{
     public:
 
@@ -73,7 +73,6 @@ class Solution{
            }
 };
 	
-
 int main()
 {
 	Node* head=NULL;
