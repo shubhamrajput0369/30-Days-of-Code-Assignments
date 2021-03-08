@@ -4,7 +4,18 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
-using namespace std;	
+using namespace std;
+class Node
+{
+    public:
+        int data;
+        Node *next;
+        Node(int d){
+            data=d;
+            next=NULL;
+        }
+};
+
 class Solution{
     public:
 
