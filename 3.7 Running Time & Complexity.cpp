@@ -22,3 +22,9 @@ int main() {
             continue;
         }
  
+       if(e<=3)
+        {
+            cout<<"Prime"<<endl;
+            continue;
+        }
+ 
