@@ -34,4 +34,7 @@ int main() {
             continue;
         }
         
+        bool prime=true;
+        int sqroot=sqrt(e);
+        
  
