@@ -43,3 +43,6 @@ int main() {
                 if(e%i==0)
                 {
  
+                   prime=false;
+                    break;
+ 
