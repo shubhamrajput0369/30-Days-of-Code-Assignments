@@ -38,3 +38,8 @@ int main() {
         int sqroot=sqrt(e);
         
  
+           for(int i=3;i<=sqroot;i+=2)
+            {
+                if(e%i==0)
+                {
+ 
