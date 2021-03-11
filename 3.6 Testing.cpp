@@ -44,3 +44,27 @@ public:
     }
 
 };
+
+class TestDataExactlyTwoDifferentMinimums {
+public:
+    static vector<int> get_array() {
+        vector<int>v{1,4,1};
+        return v;
+    }
+
+    static int get_expected_result() {
+        return 0;
+    }
+
+};
+
+void TestWithEmptyArray() {
+    try {
+        auto seq = TestDataEmptyArray::get_array();
+        auto result = minimum_index(seq);
+    } catch (invalid_argument& e) {
+        return;
+    }
+    assert(false);
+}
+
