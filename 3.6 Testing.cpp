@@ -20,3 +20,14 @@ int minimum_index(vector<int> seq) {
             min_idx = i;
         }
     }
+    return min_idx;
+}
+
+class TestDataEmptyArray {
+public:
+    static vector<int> get_array() {
+        vector <int> v;
+        return v;
+    }
+
+};
