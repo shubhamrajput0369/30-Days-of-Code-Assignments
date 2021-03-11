@@ -31,3 +31,16 @@ public:
     }
 
 };
+
+class TestDataUniqueValues {
+public:
+    static vector<int> get_array() {
+        vector<int>v{1,2,3,4,5};
+        return v;
+    }
+
+    static int get_expected_result() {
+        return 0;
+    }
+
+};
