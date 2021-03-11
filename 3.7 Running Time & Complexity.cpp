@@ -13,3 +13,12 @@ int main() {
     cin>>n;
     
  
+   for(int i=0;i<n;i++)
+    {
+        cin>>e;
+        if(e==1)
+        {
+            cout<<"Not prime"<<endl;
+            continue;
+        }
+ 
