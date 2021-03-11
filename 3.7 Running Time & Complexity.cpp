@@ -46,3 +46,10 @@ int main() {
                    prime=false;
                     break;
  
+               }
+            }
+    
+        if(prime==true)
+        cout<<"Prime"<<endl;
+        else
+ 
