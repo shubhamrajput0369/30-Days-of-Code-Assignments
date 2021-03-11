@@ -68,3 +68,13 @@ void TestWithEmptyArray() {
     assert(false);
 }
 
+void TestWithUniqueValues() {
+    auto seq = TestDataUniqueValues::get_array();
+    assert(seq.size() >= 2);
+
+    assert(set<int>(seq.begin(), seq.end()).size() == seq.size());
+
+    auto expected_result = TestDataUniqueValues::get_expected_result();
+    auto result = minimum_index(seq);
+    assert(result == expected_result);
+}
