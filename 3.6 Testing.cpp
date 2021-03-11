@@ -91,3 +91,11 @@ void TestWithExactlyTwoDifferentMinimums() {
     auto result = minimum_index(seq);
     assert(result == expected_result);
 }
+
+int main() {
+    TestWithEmptyArray();
+    TestWithUniqueValues();
+    TestWithExactlyTwoDifferentMinimums();
+    cout << "OK" << endl;
+    return 0;
+}
