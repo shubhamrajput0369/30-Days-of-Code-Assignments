@@ -28,3 +28,7 @@ int main() {
             continue;
         }
  
+       if(e%2==0 || e%3==0)
+        {
+            cout<<"Not prime"<<endl;
+ 
