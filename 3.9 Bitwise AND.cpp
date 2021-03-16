@@ -18,3 +18,6 @@ int main(){
  
        for(int x = 0; x < range.size() - 1; ++x){
  
+           for(int y = x + 1; y < range.size(); ++y){
+                tmp = range[x] & range[y];
+ 
