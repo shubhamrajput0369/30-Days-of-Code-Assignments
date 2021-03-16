@@ -30,3 +30,6 @@ int main(){
  
        range.clear();
         max = 0;
+
+    }
+}
