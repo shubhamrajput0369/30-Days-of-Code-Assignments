@@ -60,5 +60,12 @@ Concepts of "30 Days of Code" Series
 
 3.5 Nested Logic code
 
+3.6 Testing code
+
+3.7 Running Time & Complexity concept code
+
+3.8 RegEx logic code
+
+3.9 Bitwise AND logic code
 
     Coming soon.....
