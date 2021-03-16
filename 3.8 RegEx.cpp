@@ -25,3 +25,5 @@ int main(){
     { 
         cout << db[i] << endl; 
     }
+    return 0;
+}
