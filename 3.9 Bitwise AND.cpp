@@ -21,3 +21,6 @@ int main(){
            for(int y = x + 1; y < range.size(); ++y){
                 tmp = range[x] & range[y];
  
+               if(tmp < k)
+                    max = (tmp > max ? tmp : max);
+ 
