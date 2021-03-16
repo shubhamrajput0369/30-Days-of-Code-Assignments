@@ -16,3 +16,5 @@ int main(){
        for(int j = 0; j < n; ++j)
             range.push_back(j + 1);
  
+       for(int x = 0; x < range.size() - 1; ++x){
+ 
