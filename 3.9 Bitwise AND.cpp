@@ -9,3 +9,7 @@ int main(){
     vector<int> range;
     range.reserve(1000);
  
+   cin >> ncases;
+    for(int i = 0; i < ncases; ++i){
+        cin >> n >> k;
+ 
