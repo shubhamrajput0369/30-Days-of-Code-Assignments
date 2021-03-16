@@ -13,3 +13,6 @@ int main(){
     for(int i = 0; i < ncases; ++i){
         cin >> n >> k;
  
+       for(int j = 0; j < n; ++j)
+            range.push_back(j + 1);
+ 
