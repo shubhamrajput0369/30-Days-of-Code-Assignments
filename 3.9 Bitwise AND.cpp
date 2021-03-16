@@ -24,3 +24,7 @@ int main(){
                if(tmp < k)
                     max = (tmp > max ? tmp : max);
  
+           }
+        }
+        cout << max << '\n';
+ 
