@@ -21,4 +21,7 @@ int main(){
         }
     }
     sort(db.begin(),db.end()); 
- 
+    for(int i = 0;i < db.size();i++) 
+    { 
+        cout << db[i] << endl; 
+    }
