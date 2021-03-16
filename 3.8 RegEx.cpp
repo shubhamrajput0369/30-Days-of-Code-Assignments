@@ -20,3 +20,5 @@ int main(){
             db.push_back(firstName);
         }
     }
+    sort(db.begin(),db.end()); 
+ 
