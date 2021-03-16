@@ -28,3 +28,5 @@ int main(){
         }
         cout << max << '\n';
  
+       range.clear();
+        max = 0;
